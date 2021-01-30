@@ -1,0 +1,102 @@
+body{
+    font-family: 'Yusei Magic', sans-serif;
+    background-color: #1A1A1D;
+}
+p{
+    color:  white;
+}
+/* Color on links */
+a:hover {
+  color: gold;
+}
+a{
+    color: white;
+}
+.betweenpages a:hover{
+    opacity: 0.6;
+    transition-duration: 750ms;
+}
+h1.starting{
+text-align: center;
+color: white;
+font-weight: 900;
+text-transform: uppercase;
+letter-spacing: 3px;
+width: 100%;
+padding: 20px 0px;
+border-radius: 10px;
+margin: auto;
+background-color: #6F2232;
+font-size: 30px;
+letter-spacing: 30px;
+text-decoration: underline;
+}
+a{
+  text-decoration: none;
+}
+.boxes .box{
+  position: relative;
+  width: calc(337px - 30px);
+  height: calc(100px - 30px);
+  background: #6F2232;
+  float: left;
+  margin: 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 10px; 
+}
+.box:hover{
+  background: #5523AA;
+  transition: 0.7s;
+}
+.quote{
+    font-size: 30px;
+    float: left;
+    padding: 100px;
+    font-style: italic;
+}
+
+#ourteam{
+    color: white; 
+    text-indent: 1em; 
+    letter-spacing: 5px; 
+    font-size: 70px; 
+}
+
+main.container{
+    width: 100%;
+    height: 1080px;
+    position: absolute;
+    font-size: 8vw;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 5px;
+}
+
+#clock{
+    width: 100%;
+    position: absolute;
+    font-size: 9vw;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  
+}
+
+h1.clockheading{
+    text-align: center;
+    padding: 50px;
+    font-size: 40px;
+    text-decoration: none;
+    color: gold;
+
+}
+#explanation{
+    color: white;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+}

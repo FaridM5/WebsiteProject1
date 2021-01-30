@@ -1,0 +1,198 @@
+p{
+    font-weight: 300;
+}
+
+h1.starting{
+text-align: center;
+color: white;
+font-weight: 900;
+text-transform: uppercase;
+letter-spacing: 3px;
+width: 100%;
+padding: 20px 0px;
+border-radius: 10px;
+margin: auto;
+background-color: #6F2232;
+font-size: 30px;
+letter-spacing: 30px;
+font-family: 'Yusei Magic', sans-serif;
+text-decoration: underline;
+}
+a{
+  text-decoration: none;
+}
+.boxes .box{
+  position: relative;
+  width: calc(337px - 30px);
+  height: calc(100px - 30px);
+  background: #6F2232;
+  float: left;
+  margin: 10px;
+  font-family: 'Yusei Magic', sans-serif;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 10px; 
+}
+.box:hover{
+  background: #5523AA;
+  transition: 0.7s;
+}
+
+/*NAME*/
+.namefarid{
+    color: #F9F6F0;
+    position: relative;
+    top: 100px;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
+
+.namenazrin{
+    color: #F9F6F0;
+    position: relative;
+    top: 100px;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
+
+.nameelnur{
+    color: #F9F6F0;
+    position: relative;
+    top: 100px;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
+
+.nameshamsiyya{
+    color: #F9F6F0;
+    position: relative;
+    top: 100px;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+}
+body {
+    background-color: #1A1A1D;
+   }
+
+.img{
+    position: relative;
+    left: 300px; 
+    top: 100px;
+    border-radius: 10px;
+}
+
+/*Info*/
+.imgelnur{
+    position: relative;
+    left: 300px; 
+    top: 100px;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+}
+.infofarid{
+    color: #F9F6F0;
+    position: relative;
+    text-align: left;
+    bottom: 240px;
+    left: 620px;
+    font-style: italic;
+}
+
+.infonazrin{
+    color: #F9F6F0;
+    position: relative;
+    text-align: left;
+    bottom: 220px;
+    left: 620px;
+    font-style: italic;
+}
+.infoelnur{
+    color: #F9F6F0;
+    position: relative;
+    text-align: left;
+    bottom: 200px;
+    left: 620px;
+    font-style: italic;
+}
+
+.infoshamsiyya{
+    color: #F9F6F0;
+    position: relative;
+    text-align: left;
+    bottom: 160px;
+    left: 650px;
+    font-style: italic;
+}
+ 
+/* Instagram Icons */
+.ig-icon{
+    position: relative;
+    left: 780px; 
+    bottom: 230px;
+}
+
+.ig-iconelnur{
+    position: relative;
+    left: 780px; 
+    bottom: 210px;
+}
+
+.ig-iconfarid{
+    position: relative;
+    left: 780px; 
+    bottom: 230px;
+}
+
+
+.ig-iconnazrin{
+    position: relative;
+    left: 780px; 
+    bottom: 220px;
+}
+
+.ig-iconshamsiyya{
+    position: relative;
+    left: 780px; 
+    bottom: 160px;
+}
+
+/*Facebook Icons*/
+
+.fb-icon{
+    position: relative;
+    left: 890px; 
+    bottom: 233px;  
+}
+
+.fb-iconelnur{
+    position: relative;
+    left: 830px; 
+    bottom: 210px;  
+}
+
+.fb-iconfarid{
+    position: relative;
+    left: 840px; 
+    bottom: 230px;  
+}
+
+.fb-iconnazrin{
+    position: relative;
+    left: 830px; 
+    bottom: 220px;  
+}
+
+.fb-iconshamsiyya{
+    position: relative;
+    left: 830px; 
+    bottom: 160px;  
+}
+
+.first{
+    font-family: 'Yusei Magic', sans-serif;
+}
